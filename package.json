@@ -1,7 +1,7 @@
 {
   "name": "promise-rate-limit",
   "version": "0.0.1",
-  "description": "function-rate-limit for functions that return promises",
+  "description": "function-rate-limit for functions that return promises.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js && mocha --ui qunit --reporter spec test-original.js"
