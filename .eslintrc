@@ -1,0 +1,12 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "no-process-env": [1],
+    "no-undef": [2],
+    "no-unused-vars": [2],
+    "semi": [2]
+  }
+}
